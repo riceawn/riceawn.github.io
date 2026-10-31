@@ -1,0 +1,5 @@
+TypeNamePriorityTTLDataMX@104 hrsmxa.mailgun.orgMX@104 hrsmxb.mailgun.orgTXT@N/A4 hrsv=spf1 include:mailgun.org ~allTXT_dmarcN/A4 hrsv=DMARC1; p=reject; pct=100; fo=1; ri=3600; sp=reject; adkim=s; aspf=s; rua=mailto:32a1088@dmarc.mailgun.org,mailto:7a82e45f@inbox.ondmarc.com; ruf=mailto:32a1088@dmarc.mailgun.org,mailto:7a82e45f@inbox.ondmarc.com;TXTmx._domainkeyN/A4 hrsk=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyIFsXHZG766wEy+ylyy2NPUaNvQlsU7pC/yH7nMgZ7cvBT+jMDEer6cm+hsu+/3sAYWLSHGQ/SS2rxzqwA5/hVMU1SKNMp0mAFc579jhqANlfDrlOX9loFr4iIfn063HCdFvlgn0C9yuOfyQUPXYwF1ByImuAULBkeEtIHFq7EQIDAQAB
+
+TypeNamePriorityTTLDataA@N/A4 hrs198.185.159.144A@N/A4 hrs198.185.159.145A@N/A4 hrs198.49.23.144A@N/A4 hrs198.49.23.145CNAMEwwwN/A4 hrsext-sq.squarespace.comHTTPS@N/A4 hrs1 . alpn="h2,http/1.1" ipv4hint="198.185.159.144,198.185.159.145,198.49.23.144,198.49.23.145"
+
+TypeNamePriorityTTLDataCNAME_domainconnectN/A1 hr_domainconnect.domains.squarespace.com

@@ -1,0 +1,5 @@
+TypeNamePriorityTTLDataMX@104 hrsmxa.mailgun.orgMX@104 hrsmxb.mailgun.orgTXT@N/A4 hrsv=spf1 include:mailgun.org ~allTXT_dmarcN/A4 hrsv=DMARC1; p=reject; pct=100; fo=1; ri=3600; sp=reject; adkim=s; aspf=s; rua=mailto:32a1088@dmarc.mailgun.org,mailto:7a82e45f@inbox.ondmarc.com; ruf=mailto:32a1088@dmarc.mailgun.org,mailto:7a82e45f@inbox.ondmarc.com;TXTmx._domainkeyN/A4 hrsk=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyIFsXHZG766wEy+ylyy2NPUaNvQlsU7pC/yH7nMgZ7cvBT+jMDEer6cm+hsu+/3sAYWLSHGQ/SS2rxzqwA5/hVMU1SKNMp0mAFc579jhqANlfDrlOX9loFr4iIfn063HCdFvlgn0C9yuOfyQUPXYwF1ByImuAULBkeEtIHFq7EQIDAQAB
+
+TypeNamePriorityTTLDataCNAME_domainconnectN/A1 hr_domainconnect.domains.squarespace.com
+
+TypeNamePriorityTTLDataA@N/A4 hrs185.199.108.153A@N/A4 hrs185.199.109.153A@N/A4 hrs185.199.110.153A@N/A4 hrs185.199.111.153CNAMEwwwN/A4 hrsriceawn.github.io
