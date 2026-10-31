@@ -1,0 +1,49 @@
+# Support & Help Center
+
+## Bubble Level: Spirit & Angle
+**Developed by Rice Awn LLC**
+
+Welcome to the official support page for **Bubble Level: Spirit & Angle**. If you have questions, feedback, or need assistance with the app, we are here to help!
+
+---
+
+### 📬 Contact Support
+If you encounter any bugs, have feature suggestions, or need help with purchases:
+- **Email**: contact@riceawn.com
+
+---
+
+### ❓ Frequently Asked Questions (FAQ)
+
+#### 1. How does "Face-Down Precision Mode" work?
+Most modern smartphones have prominent rear camera bumps that prevent the phone from laying completely flat on a table, causing inaccurate measurements.
+- **How to use**: Tap the **Face-Down Mode** icon at the bottom, select a **3s** or **5s** timer, place your phone face-down on its 100% flat front glass, and wait for the countdown beep.
+- **Reading the result**: Once the timer completes, pick up your phone. A phone diagram will clearly indicate which edge was physically low and needs adjustment.
+
+#### 2. How do I calibrate or set a Relative Zero?
+- **Relative Zero**: Place your phone on any reference slope or surface, tap the **Calibrate (Zero)** button. The current angle will become 0.0°, allowing you to measure relative angles against that slope.
+- **Reset**: Tap the calibration reset button at any time to return to factory absolute horizontal leveling.
+
+#### 3. How do I restore my "Remove Ads" purchase?
+If you reinstalled the app or switched to a new device:
+1. Tap the **⚙️ (Settings)** icon in the top header.
+2. In the Remove Ads section, tap **"Restore Purchases"**.
+3. Sign in with the Apple ID or Google account used for the original purchase. Your ad-free entitlement will be restored immediately at no additional charge.
+
+#### 4. The bubble seems stuck or sluggish. What should I do?
+1. Ensure your device's built-in motion sensors are functioning properly.
+2. Make sure you haven't accidentally enabled **"Hold / Lock"** (the lock icon at the bottom-left), which freezes the angle readout.
+3. Restart the app or toggle your device's auto-rotate settings.
+
+#### 5. Does the app collect my personal data?
+Orientation and leveling calculations are performed locally on your device. Advertising and purchase services may process other information as described in the Privacy Policy. Please review our [Privacy Policy](/privacy/bubble-level/) for full details.
+
+---
+
+### 📱 System Requirements
+- **iOS**: Requires iOS 14.0 or later. Compatible with iPhone and iPad.
+- **Android**: Requires Android 8.0 (Oreo) or later with built-in accelerometer sensors.
+
+---
+
+*© 2026 Rice Awn LLC. All rights reserved.*
