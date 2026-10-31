@@ -17,7 +17,7 @@ Do not run `scripts/prepare-content.mjs` after editing the website documents unl
 
 ## GitHub Pages
 
-Repository: `tianyulu1013/tianyulu1013.github.io`. Keep its root `app-ads.txt` intact. The same record is included in `docs/app-ads.txt`.
+Repository: `riceawn/riceawn.github.io` (public website only). Existing app repositories keep their own visibility. The original `tianyulu1013/tianyulu1013.github.io` repository is preserved; its advertising authorization record is included unchanged in `docs/app-ads.txt`.
 
 Use Settings → Pages → Deploy from a branch → `main` → `/docs`. Set custom domain to `riceawn.com`, then enable HTTPS when GitHub finishes issuing the certificate.
 
@@ -30,7 +30,7 @@ DNS for the apex (`@`) uses GitHub Pages A records:
 185.199.111.153
 ```
 
-Set `www` CNAME to `tianyulu1013.github.io`. Preserve all MX and email-related TXT records for contact@riceawn.com. Do not change nameservers or delete the email-forwarding setup. Remove or replace only conflicting website A/AAAA/CNAME records after checking current values. Domain verification in GitHub is recommended before switching DNS.
+Set `www` CNAME to `riceawn.github.io`. Preserve all MX and email-related TXT records for contact@riceawn.com. Do not change nameservers or delete the email-forwarding setup. Remove or replace only conflicting website A/AAAA/CNAME records after checking current values. Domain verification in GitHub is recommended before switching DNS.
 
 Official references:
 - https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
