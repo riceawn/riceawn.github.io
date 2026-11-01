@@ -1,0 +1,12 @@
+{
+  "source": "D:/workspace/phonegames/slime-expansion/Docs/privacy/PrivacyPolicy-GoogleSites.txt",
+  "source_sha256": "eaa3a875ab689525513fe22c80df540cdc9c0d79b11f94e6610549ef698c2e94",
+  "owner": "Rice Awn LLC; user-owned project document",
+  "authorization": "User explicitly requested publication on November 1, 2026",
+  "destination": "https://riceawn.com/privacy/jelly-mingle/",
+  "changes": [
+    "Plain-text section headings and links converted to website Markdown",
+    "Hosting paragraph changed from Google Sites/Google to GitHub Pages/GitHub to match actual hosting"
+  ],
+  "source_modified": false
+}

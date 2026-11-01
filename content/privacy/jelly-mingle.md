@@ -1,115 +1,120 @@
-# Jelly Mingle: Merge Puzzle — Privacy Policy
+# Privacy Policy — Jelly Mingle
 
-Last updated: October 31, 2026
+Last updated: November 1, 2026
 
-Provider: **Rice Awn LLC**  
-Contact: **contact@riceawn.com**
+Rice Awn LLC (“we,” “us,” or “our”) operates Jelly Mingle (the “Game”). This Privacy Policy explains how information is handled when you use the Game on Android or iOS or visit this policy page. Features and privacy controls can differ by platform and version.
 
-This Privacy Policy explains how **Rice Awn LLC** (“we,” “us,” or “our”) handles information in connection with **Jelly Mingle** (the “Game”) on Android and iOS. Features and privacy controls can differ by platform and version.
+For privacy questions or requests, contact contact@riceawn.com.
 
-Privacy contact: **[contact@riceawn.com](mailto:contact@riceawn.com)**
+## 1. Game information stored on your device
 
-## 1. Information stored on your device
+The Game stores level progress, stars, best move counts, daily challenge results, tutorial progress, and preferences such as music, sound effects, and Color Assist on your device.
 
-The Game stores information needed to remember your play, including level progress, stars, move records, daily challenge results, unlocked solutions, tutorial information, and settings such as sound and Color Assist.
+We do not operate a game-account or cloud-save service. We do not upload your complete game-save file, saved boards, or solution routes to a developer-operated server. Limited gameplay events may be sent to Firebase as explained below. Device or operating-system backups are managed by the relevant platform and your settings.
 
-These records are stored locally on your device. We do not operate a game-account or cloud-save service, and the Game does not upload your saved boards or progress to a developer-operated server. Device or operating-system backups, where available, are controlled by the relevant platform and your settings.
+You do not need to provide your name, email address, or payment details to play. Gameplay does not request access to your contacts, photos, camera, microphone, or precise GPS location.
 
-The Game does not require you to create an account or provide your name, email address, or payment details to play. Gameplay does not request access to your contacts, photos, camera, microphone, or precise GPS location.
+## 2. Advertising and privacy choices
 
-## 2. Advertising and privacy-choice services
+The Game uses Google AdMob / Google Mobile Ads to display banner and interstitial advertisements. We use Google's User Messaging Platform (UMP) to present and manage privacy choices where applicable.
 
-The Game uses **Google AdMob / Google Mobile Ads** to display advertising, which may include banners, interstitials, and optional rewarded ads. It also uses **Google's User Messaging Platform (UMP)** to obtain and manage privacy choices where applicable.
+These services may collect or generate:
 
-Advertising and privacy-choice services may receive or generate:
+- IP addresses and approximate location inferred from them.
+- Device, operating-system, app-version, and network information.
+- Advertising IDs, app-scoped identifiers, and other platform-permitted device or account identifiers, where available.
+- Interaction information, such as app launches, ad requests, impressions, taps, and video views.
+- Diagnostics, including errors and app or advertising-SDK performance information.
+- Consent records and privacy-preference signals.
 
-- **Network and approximate location information**, including your IP address and a general location inferred from it.
-- **Device and software information**, such as operating system, app version, device characteristics, and network information.
-- **Identifiers**, such as an advertising identifier, app- or developer-scoped identifiers, and other platform-permitted identifiers where applicable. Availability and permitted uses differ by identifier and platform.
-- **Interaction and advertising information**, such as app launches, ad requests, impressions, taps, video views, and reward-completion events.
-- **Diagnostics**, including errors, crash information, and app or SDK performance information.
-- **Privacy preferences and consent signals**, used to determine applicable notices, remember choices, and apply advertising restrictions.
+This information is used for ad delivery, measurement, permitted personalization, service operation, and fraud prevention. Google and providers involved in serving advertisements may process it according to your choices, their roles, and applicable requirements. Advertising eligibility does not by itself authorize our gameplay analytics.
 
-This information supports ad delivery, advertising measurement, relevant advertising when permitted, SDK operation and improvement, and protection against fraud and abuse. An identifier is used only for purposes permitted for that identifier; not every identifier is available for advertising personalization or measurement.
+For more information, see Google's Privacy Policy ([https://policies.google.com/privacy](https://policies.google.com/privacy)) and How Google uses information from apps that use its services ([https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)).
 
-Google and the advertising or measurement providers involved in delivering an ad may process this information. Their handling depends on the services involved, your choices, and applicable platform rules. Where a consent form is shown, review its purpose and provider information before making your choices.
+## 3. Gameplay analytics
 
-On iOS versions that include Firebase, we use **Google Analytics for Firebase** to understand how the Game is used and improve its levels. Depending on your privacy choices, it may process app-instance identifiers, app and device information, general location inferred from masked IP addresses, session and interaction information, and events such as starting or completing a level, move counts, and completing the tutorial. Analytics may also measure in-app purchases through StoreKit, including the product identifier, price, and currency, associated with the app-instance identifier. We do not receive your payment-card details or store-account password. This service does not upload your saved boards, solution routes, or the contents of your game save. Firebase gameplay measurement is not used for advertising personalization; the separate advertising SDK's practices are described above.
+Android and iOS versions that include Firebase use Google Analytics for Firebase to help us understand gameplay and improve the Game. When enabled, Analytics may process app-instance identifiers, app and device details, approximate location, session and interaction information, and events such as starting a level, completing a level, the move count at completion, and completing a tutorial.
 
-We use UMP and Google's Consent Mode to apply Analytics consent choices where applicable. You can also disable **Usage Statistics** in Settings. Turning it back on does not override a refusal in an applicable consent form. Playing without an account does not mean that enabled Analytics receives no identifiers or usage information.
+On supported iOS versions, Analytics may also record in-app purchase information, such as the product identifier, price, and currency. We do not receive your payment-card details or store-account password through Analytics.
 
-On iOS, you may choose to enable **Share Crash Reports** in Settings. This option is initially off. If enabled, **Firebase Crashlytics** can receive crash traces and technical diagnostic information, such as app version, operating-system and device details, and installation identifiers, to help us diagnose failures. When Analytics and crash reporting are enabled, crash reports may include breadcrumb logs of actions before a crash. You can switch Share Crash Reports off at any time to stop subsequent automatic uploads and delete reports that have not yet been sent. This choice is separate from advertising consent and Apple's tracking authorization. Disabling collection or uninstalling the Game does not erase data already received by Google; Google's privacy information and service retention controls apply. See [Privacy and Security in Firebase](https://firebase.google.com/support/privacy) for more information.
+Our gameplay integration does not send your complete game save, saved boards, solution routes, name, or email address to Analytics. It does not enable Firebase advertising-ID collection or use Firebase gameplay measurement for advertising personalization. The separate advertising SDK's practices are described above.
 
-For details, see [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+Analytics follows the applicable Analytics consent signals managed through UMP. An unknown Analytics permission or unsuccessful initial consent refresh does not enable our gameplay analytics. On iOS, you can additionally switch Usage Statistics off in Settings. Switching it on does not override a refusal in an applicable consent form. Android currently has no separate Usage Statistics switch.
 
-## 3. Rewarded ads and solutions
+See Privacy and Security in Firebase ([https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)) for information about Google's handling of Firebase data.
 
-You can choose to watch a rewarded ad to unlock a level's complete solution. When the advertising SDK confirms that a reward was earned, the Game saves the solution unlock locally so that you can view it again. This does not change your stars or your current board.
+## 4. Crash reports and diagnostics
 
-You can continue normal gameplay without choosing this optional reward. Closing an ad before a reward is earned, an unavailable ad, or a failed ad does not itself unlock a solution.
+We use Firebase Crashlytics to diagnose technical failures. Reports may include crash traces, app version, operating-system and device information, installation identifiers, and SDK diagnostic information. Native crash reports may contain technical memory-dump data used to investigate a failure. When Analytics is enabled, reports may also include recent Analytics events as diagnostic breadcrumbs.
 
-## 4. Your advertising and consent choices
+Android: Automatic crash reporting is enabled by default. It is separate from gameplay Analytics and advertising personalization. No additional crash-reporting dialog is shown, and the current Android version has no separate in-game crash-reporting switch.
 
-Where required, a privacy message lets you make choices about relevant data use. You can revisit available choices through **Settings → Privacy Options** when that entry is required and available for your region. Withdrawing consent does not affect processing that was lawful before withdrawal.
+iOS: Share Crash Reports in Settings is initially off. If you enable it, Crashlytics can upload diagnostic reports. Switching it off stops subsequent automatic uploads and requests deletion of reports that have not yet been sent. It does not automatically erase reports already received by Google. This setting is separate from Usage Statistics and Apple's tracking permission.
 
-Your device may provide additional advertising controls. Android settings can let you reset or delete an advertising ID. On iOS, Tracking settings and any applicable App Tracking Transparency prompt control permission for tracking. For iOS versions that use tracking requiring Apple's authorization, that authorization is required before such tracking takes place. Refusing tracking permission does not prevent normal gameplay.
+We do not deliberately add saved boards, solution routes, your name, or your email address to crash reports. Google's Firebase privacy information ([https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)) describes the diagnostic data processed by its services.
 
-Depending on your choices, platform, region, and ad availability, you may receive contextual or limited ads, or some advertising features may be unavailable. Turning off personalization does not necessarily stop processing needed to deliver, measure, secure, or prevent fraud in ads, where that processing is permitted.
+## 5. Purchases
 
-You can also review Google's advertising controls in [My Ad Center](https://myadcenter.google.com/).
+Where an optional in-app purchase is offered, such as removing advertisements on supported iOS versions, the relevant app store processes the payment. The Game receives transaction and entitlement information needed to verify, provide, and restore the purchase. We do not receive your payment-card details or store-account password.
 
-## 5. If you contact us
+Removing advertisements does not automatically change Analytics or crash-reporting preferences. The app store handles its own account, payment, and transaction records under its privacy policy.
 
-If you email us, we receive your email address and whatever you choose to send, such as a description of a problem, device or app details, or screenshots. We use that information to answer your request, investigate the issue, and keep necessary support or legal records. Our email service provider also processes the correspondence to deliver and store it.
+## 6. Your controls
 
-Please do not send passwords, payment-card details, or unrelated sensitive information. Do not post private information in public comments on this policy page.
+Where required and available for your region, you can revisit advertising and related consent choices through Settings → Privacy Options. Withdrawing consent does not affect processing that was lawful before withdrawal.
 
-## 6. Disclosure and service providers
+Your device may offer additional controls. Android settings can let you reset or delete an advertising ID. On iOS, system Tracking settings and any applicable App Tracking Transparency prompt control permission for tracking. Refusing tracking permission does not prevent normal gameplay.
 
-Information may be handled by the advertising and privacy-choice providers described above and by service providers needed to handle correspondence. We may also disclose information we hold when necessary to comply with applicable law, respond to a valid legal request, or protect people's rights and security.
+Depending on your choices, region, and ad availability, advertisements may be contextual or limited, or some advertising features may be unavailable. Turning off personalization does not necessarily stop permitted processing needed for ad delivery, measurement, security, or fraud prevention.
 
-Google Play, the App Store, your device platform, and sites opened from an ad operate under their own privacy policies. We do not receive your store-account password.
+You can also review Google's advertising controls ([https://myadcenter.google.com/](https://myadcenter.google.com/)).
 
-This policy is hosted on GitHub Pages. Visiting the page involves GitHub's processing of network, browser, and usage information under the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Viewing the policy does not give us access to your locally saved game progress.
+## 7. Support and this website
 
-## 7. Retention and deletion
+If you contact contact@riceawn.com, we receive your email address and the information you choose to send, such as a problem description, device details, or screenshots. We and our email provider process this correspondence to answer you, investigate issues, and maintain necessary support or legal records. Please do not send passwords, payment-card details, or unrelated sensitive information.
 
-**Local game records:** These remain on your device until they are removed. On Android, clearing the Game's app storage removes its local records. On iOS, deleting the app removes its local app data; offloading the app may retain that data. Removing local records can permanently remove progress and solution unlocks. Any separately retained device backups must be managed through the relevant platform.
+This policy page is hosted using GitHub Pages. When you visit it, GitHub may process network, browser, and usage information under the GitHub Privacy Statement ([https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)). Viewing this page does not give us access to your locally stored game save.
 
-**Support correspondence:** We retain information for as long as reasonably needed to handle your request, resolve related issues, and meet applicable legal obligations. Relevant factors include whether a request remains open and whether a record is needed for a legal or security matter.
+## 8. Recipients of information
 
-**Advertising and consent records:** Google and other providers apply their own retention practices and applicable legal requirements, as explained in their privacy information. Removing the Game does not automatically erase records already held by a provider. You may use the provider's privacy controls or contact it about those records.
+Information may be processed by Google and the advertising, analytics, diagnostics, app-store, hosting, and email providers described in this policy. We may also disclose information we hold when reasonably necessary to comply with applicable law or legal process, prevent fraud or abuse, or protect rights and safety.
 
-For information we hold, you can contact **[contact@riceawn.com](mailto:contact@riceawn.com)** to request deletion or ask about retention. We cannot remotely retrieve or erase a save that exists only on your device.
+Google Play, the App Store, and third-party destinations opened from advertisements operate under their own privacy policies.
 
-## 8. Legal grounds and regional rights
+## 9. Retention and deletion
 
-Where applicable, processing relies on consent for activities that require it, providing the service you request, legitimate interests such as responding to support requests and preventing abuse, or compliance with legal obligations. Google's own processing is also described in its privacy information.
+Local records: Your progress and preferences remain on your device until removed. Clearing the Game's app storage on Android or deleting the app on iOS removes its local records; iOS offloading may retain them. Deleting local records may permanently remove progress. Separately retained platform backups must be managed through the platform's controls.
 
-Depending on where you live, you may have rights to access, correct, delete, or receive a copy of personal information; restrict or object to processing; or withdraw consent. You may also have a right to complain to a data-protection authority.
+Support correspondence: We retain it for as long as reasonably needed to handle the request, resolve related issues, and meet applicable legal obligations.
 
-In some U.S. jurisdictions, disclosures for targeted advertising may fall within legal definitions of a “sale” or “sharing” of personal information. Where applicable, use the privacy choices offered in the Game to opt out, or contact us about information we hold.
+Provider records: Advertising, consent, Analytics, diagnostics, and store records are subject to the providers' retention practices and applicable service settings. Google states that Crashlytics retains crash traces, extracted diagnostic data, and associated identifiers for 90 days before beginning removal from live and backup systems. See Firebase's retention information ([https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)).
 
-We may need information reasonably necessary to verify and respond to a privacy request. We will handle requests as required by applicable law.
+Disabling collection, clearing local storage, or uninstalling the Game does not automatically erase information already received by a provider. Contact contact@riceawn.com to ask about information we control or request deletion. We cannot remotely retrieve or erase a save that exists only on your device.
 
-## 9. International processing and security
+## 10. Legal grounds and your rights
 
-Service providers may process information in countries other than your own, including countries with different privacy laws. Their privacy information describes the safeguards applicable to their international transfers.
+Where applicable, processing relies on consent for activities requiring it, providing requested services, legitimate interests such as maintaining a reliable and secure Game and responding to support requests, or compliance with legal obligations.
 
-We use the Game's device storage protections and the security mechanisms provided by the services we integrate. Google states that its Mobile Ads SDK encrypts the data it transmits using TLS. No method of storage or transmission can be guaranteed completely secure.
+Depending on your location, you may have rights to access, correct, delete, or receive a copy of personal information; restrict or object to processing; withdraw consent; or complain to a relevant data-protection authority. Some U.S. privacy laws may treat certain targeted-advertising disclosures as a “sale” or “sharing” of personal information. Where applicable, use the available privacy choices to opt out or contact us about information we hold.
 
-## 10. Children
+We may request information reasonably needed to verify and respond to a request and will handle it as required by applicable law.
 
-Jelly Mingle is intended for a general audience and is not specifically directed to children under 13. We do not knowingly seek personal information from children under 13. Different or additional protections may apply to minors under local law.
+## 11. International processing and security
 
-If you are a parent or guardian and believe that a child has provided personal information in connection with the Game, contact **[contact@riceawn.com](mailto:contact@riceawn.com)**. We will review the request and take appropriate steps concerning information we control, and direct you to the relevant provider where appropriate.
+Providers may process information in countries other than yours, including countries with different privacy laws. Their privacy information describes applicable transfer safeguards.
 
-## 11. Updates and contact
+We use device-storage protections and the security mechanisms of the services we integrate. Google states that its advertising SDK encrypts transmitted user data using TLS; see its SDK data disclosure ([https://developers.google.com/admob/android/next-gen/privacy/play-data-disclosure](https://developers.google.com/admob/android/next-gen/privacy/play-data-disclosure)). No method of storage or transmission can be guaranteed completely secure.
 
-We may update this policy when the Game or its information practices change. The date above identifies the latest revision. Where required, we will provide additional notice or request a new choice before a relevant change takes effect.
+## 12. Children
 
-For privacy questions or requests:
+Jelly Mingle is intended for a general audience and is not specifically directed to children under 13. We do not knowingly seek personal information from children under 13. Additional protections may apply to minors under local law.
 
-**Developer:** Rice Awn LLC  
-**Game:** Jelly Mingle  
-**Email:** [contact@riceawn.com](mailto:contact@riceawn.com)
+If you believe a child has provided personal information in connection with the Game, contact contact@riceawn.com. We will review the concern, take appropriate action concerning information we control, and direct you to the relevant provider when appropriate.
+
+## 13. Updates and contact
+
+We may update this policy as the Game or our information practices change. The date above identifies the latest revision. Where required, we will provide additional notice or request a new choice before a relevant change takes effect.
+
+Developer / Operator: Rice Awn LLC  
+Game: Jelly Mingle  
+Privacy contact: contact@riceawn.com
