@@ -1,6 +1,6 @@
 # Tear-Off Notes — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 4, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
@@ -9,6 +9,8 @@ This Privacy Policy explains how Tear-Off Notes (“the app,” “we,” “us,
 
 **Android package:** `com.riceawngames.tearoffnotes`  
 **Privacy contact:** contact@riceawn.com
+
+This policy covers Android and iOS versions of Tear-Off Notes. Features and service integrations can differ by platform and release.
 
 ## 1. Your Notes and Local Storage
 
@@ -38,6 +40,16 @@ For more information, see:
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites)
 
+### Firebase analytics and diagnostics
+
+Releases that include Firebase Analytics may process app-instance identifiers, device and operating-system information, app version, app launches, feature interactions, and general usage events. We use this information to understand app use and improve reliability and usability. Firebase is a Google service. These identifiers and events are not necessarily anonymous.
+
+Releases that include Firebase Crashlytics may also process crash stack traces, installation identifiers, and device, app-version, and diagnostic information to help identify and fix faults. The services available depend on the version you use; this policy also describes these integrations for upcoming releases.
+
+We do not send your notebook names, written notes, drawings, or page content as analytics events or crash-report attachments. Advertising consent and analytics or crash-report collection are separate matters. Where a release provides analytics or crash-report controls, you can use those controls to change future collection; do not assume that changing an advertising choice disables all Firebase services.
+
+See [Firebase privacy information](https://firebase.google.com/support/privacy) for information about these services and their data handling.
+
 ## 3. Information You Send to Us
 
 If you contact us by email, we receive your email address and any information you include in your message. We use this information to answer your questions, provide support, and address privacy requests.
@@ -46,17 +58,17 @@ Please avoid sending sensitive notebook content unless it is necessary for your 
 
 ## 4. Your Choices
 
-You can edit or delete notes and delete notebooks within the app. You can remove locally stored app data through Android’s app settings. Clearing app storage or uninstalling the app may permanently remove your local notebooks.
+You can edit or delete notes and delete notebooks within the app. You can remove locally stored app data through the storage-management options available on your platform. Clearing app storage or deleting the app and its data may permanently remove your local notebooks.
 
 Previously created operating system backups may remain until you remove them through your device or backup provider’s settings.
 
-You can manage advertising identifiers through Android’s privacy settings. Where available or required, the app provides advertising consent controls and a **Privacy choices** option in Settings.
+You can manage advertising identifiers and tracking permissions through Android or iOS privacy settings. Where available or required, the app provides advertising consent controls and a **Privacy choices** option in Settings. Device tracking permissions and advertising consent do not necessarily control all usage analytics or diagnostics. For privacy questions or requests about information we process, contact contact@riceawn.com.
 
 ## 5. Data Retention
 
 Local notebook data remains on your device until you delete it or remove the app’s stored data.
 
-We retain support correspondence only as needed to handle your request and meet applicable legal obligations. Information processed by Google is subject to Google’s policies and retention practices.
+We retain support correspondence only as needed to handle your request and meet applicable legal obligations. Information processed by Google is subject to the applicable service settings, Google’s policies, and retention practices. Removing local app data does not automatically delete information already processed by these services.
 
 ## 6. Security
 
@@ -80,7 +92,7 @@ The app may open third-party websites, including model attribution links and adv
 
 ## 10. Changes to This Policy
 
-
+We may update this policy as app features and service integrations change. The date above identifies the latest revision.
 
 ## 11. Contact
 
