@@ -1,0 +1,122 @@
+{
+  "status": "Completed: 21 Gist URLs migrated, 2 missing URLs added; all 23 AdMob app entries selected and published; verified after reload",
+  "apps": [
+    {
+      "app": "Jelly Mingle: Merge Puzzle",
+      "old_url": "https://gist.github.com/tianyulu1013/f5c29dc6548f83353c2fc305f3fde86e",
+      "new_url": "https://riceawn.com/privacy/jelly-mingle/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Mahjong Mixup",
+      "old_url": "https://gist.github.com/tianyulu1013/c7d0e5f5820ad89a9e74048bd25a9054",
+      "new_url": "https://riceawn.com/privacy/mahjong-mixup/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "A Tray of Trouble",
+      "old_url": "https://gist.github.com/tianyulu1013/f6f5835da6353863c7f141c4cf853948",
+      "new_url": "https://riceawn.com/privacy/a-tray-of-trouble/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Sudoku: Pieces",
+      "old_url": "https://gist.github.com/tianyulu1013/c123aae529dcd1c94b6098798051a4ae",
+      "new_url": "https://riceawn.com/privacy/sudoku-pieces/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "2048 Twisted",
+      "old_url": "https://gist.github.com/tianyulu1013/eb895bce1a647336d4e2b759bac023ab",
+      "new_url": "https://riceawn.com/privacy/2048-twisted/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Skillball Rally",
+      "old_url": "https://gist.github.com/tianyulu1013/d54a2293b1d663639219af127e88c8bd",
+      "new_url": "https://riceawn.com/privacy/skillball-rally/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Photo Maker: Passport & ID",
+      "old_url": "https://gist.github.com/tianyulu1013/6b0ee981da39488b58a6b6492b5e3b80",
+      "new_url": "https://riceawn.com/privacy/photo-maker/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Dice Roller: 3D Simulator",
+      "old_url": "https://gist.github.com/tianyulu1013/8d6ee43e4875f61a2ac3c0916ef85cf5",
+      "new_url": "https://riceawn.com/privacy/dice-roller/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Bubble Level: Spirit & Angle",
+      "old_url": "https://gist.github.com/tianyulu1013/73cf1fd8be997154283e37201c9e2956",
+      "new_url": "https://riceawn.com/privacy/bubble-level/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Ruler: CM, MM & Inches",
+      "old_url": "https://gist.github.com/tianyulu1013/e3bbfe49fec1cc62952f8f73ea67a2c0",
+      "new_url": "https://riceawn.com/privacy/ruler/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Tear-Off Notes",
+      "old_url": "https://gist.github.com/tianyulu1013/5508fc4f9afcfd38c8feecd4f840f093",
+      "new_url": "https://riceawn.com/privacy/tear-off-notes/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    },
+    {
+      "app": "Tiny Makers: Kids Art & Play",
+      "old_url": "https://gist.github.com/tianyulu1013/9ff456d632847a58b8bde1292379b378",
+      "new_url": "https://riceawn.com/privacy/tiny-makers/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": false
+    },
+    {
+      "app": "Magnifier: Reading Loupe",
+      "old_url": null,
+      "new_url": "https://riceawn.com/privacy/magnifier/",
+      "http_status": 200,
+      "contains_company": true,
+      "contains_contact": true,
+      "admob_updated": true
+    }
+  ]
+}

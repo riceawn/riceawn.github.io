@@ -1,0 +1,168 @@
+{
+  "status": "Published and verified after reload",
+  "date": "2026-11-04",
+  "message": "Untitled European regulations message",
+  "publishedAppCount": 23,
+  "migratedGistCount": 21,
+  "addedPolicyUrlCount": 2,
+  "allAppPolicyUrlsOnRiceawn": true,
+  "oldUrlsRemaining": 0,
+  "emptyUrlsRemaining": 0,
+  "updates": [
+    {
+      "app": "2048 Twisted",
+      "platform": "iOS",
+      "old": "https://gist.github.com/tianyulu1013/eb895bce1a647336d4e2b759bac023ab",
+      "new": "https://riceawn.com/privacy/2048-twisted/"
+    },
+    {
+      "app": "2048 Twisted - AndroidID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/eb895bce1a647336d4e2b759bac023ab",
+      "new": "https://riceawn.com/privacy/2048-twisted/"
+    },
+    {
+      "app": "A Tray of TroubleID: com.riceawngames.atrayoftrouble | Android",
+      "old": "https://gist.github.com/tianyulu1013/f6f5835da6353863c7f141c4cf853948",
+      "new": "https://riceawn.com/privacy/a-tray-of-trouble/"
+    },
+    {
+      "app": "A Tray of Trouble - iOSID: — | iOS",
+      "old": "https://gist.github.com/tianyulu1013/f6f5835da6353863c7f141c4cf853948",
+      "new": "https://riceawn.com/privacy/a-tray-of-trouble/"
+    },
+    {
+      "app": "Bubble Level - AndroidID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/73cf1fd8be997154283e37201c9e2956",
+      "new": "https://riceawn.com/privacy/bubble-level/"
+    },
+    {
+      "app": "Bubble Level: DIY Angle FinderID: 6816330217 | iOS",
+      "old": "https://gist.github.com/tianyulu1013/73cf1fd8be997154283e37201c9e2956",
+      "new": "https://riceawn.com/privacy/bubble-level/"
+    },
+    {
+      "app": "Dice Roller: 3D Simulator - iOSID: — | iOS",
+      "old": "https://gist.github.com/tianyulu1013/8d6ee43e4875f61a2ac3c0916ef85cf5",
+      "new": "https://riceawn.com/privacy/dice-roller/"
+    },
+    {
+      "app": "Dice Simulator: ArenaID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/8d6ee43e4875f61a2ac3c0916ef85cf5",
+      "new": "https://riceawn.com/privacy/dice-roller/"
+    },
+    {
+      "app": "Jelly Mingle: Merge PuzzleID: — | iOS",
+      "old": "https://gist.github.com/tianyulu1013/f5c29dc6548f83353c2fc305f3fde86e",
+      "new": "https://riceawn.com/privacy/jelly-mingle/"
+    },
+    {
+      "app": "Jelly Mingle: Merge PuzzleID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/f5c29dc6548f83353c2fc305f3fde86e",
+      "new": "https://riceawn.com/privacy/jelly-mingle/"
+    },
+    {
+      "app": "Mahjong MixupID: 6814936261 | iOS",
+      "old": "https://gist.github.com/tianyulu1013/c7d0e5f5820ad89a9e74048bd25a9054",
+      "new": "https://riceawn.com/privacy/mahjong-mixup/"
+    },
+    {
+      "app": "Mahjong Solitaire: Slide MixupID: com.riceawngames.mahjongmixup | Android",
+      "old": "https://gist.github.com/tianyulu1013/c7d0e5f5820ad89a9e74048bd25a9054",
+      "new": "https://riceawn.com/privacy/mahjong-mixup/"
+    },
+    {
+      "app": "Photo Maker: Passport & IDID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/6b0ee981da39488b58a6b6492b5e3b80",
+      "new": "https://riceawn.com/privacy/photo-maker/"
+    },
+    {
+      "app": "Photo Maker: Passport & ID - iOSID: — | iOS",
+      "old": "https://gist.github.com/tianyulu1013/6b0ee981da39488b58a6b6492b5e3b80",
+      "new": "https://riceawn.com/privacy/photo-maker/"
+    },
+    {
+      "app": "Ruler: CM, MM & Inches - AndroidID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/e3bbfe49fec1cc62952f8f73ea67a2c0",
+      "new": "https://riceawn.com/privacy/ruler/"
+    },
+    {
+      "app": "Ruler: Measure CM, MM & InchesID: 6815516308 | iOS",
+      "old": "https://gist.github.com/tianyulu1013/e3bbfe49fec1cc62952f8f73ea67a2c0",
+      "new": "https://riceawn.com/privacy/ruler/"
+    },
+    {
+      "app": "Skillball RallyID: com.riceawngames.skillballrally | Android",
+      "old": "https://gist.github.com/tianyulu1013/d54a2293b1d663639219af127e88c8bd",
+      "new": "https://riceawn.com/privacy/skillball-rally/"
+    },
+    {
+      "app": "Skillball Rally - Marble RaceID: 6819093734 | iOS",
+      "old": "https://gist.github.com/tianyulu1013/d54a2293b1d663639219af127e88c8bd",
+      "new": "https://riceawn.com/privacy/skillball-rally/"
+    },
+    {
+      "app": "Sudoku: Pieces - Block JigsawID: 6810938707 | iOS",
+      "old": "https://gist.github.com/tianyulu1013/c123aae529dcd1c94b6098798051a4ae",
+      "new": "https://riceawn.com/privacy/sudoku-pieces/"
+    },
+    {
+      "app": "Sudoku: Pieces - Block JigsawID: com.biaaaa.sudokupieces | Android",
+      "old": "https://gist.github.com/tianyulu1013/c123aae529dcd1c94b6098798051a4ae",
+      "new": "https://riceawn.com/privacy/sudoku-pieces/"
+    },
+    {
+      "app": "Tear-off Notes - AndroidID: — | Android",
+      "old": "https://gist.github.com/tianyulu1013/5508fc4f9afcfd38c8feecd4f840f093",
+      "new": "https://riceawn.com/privacy/tear-off-notes/"
+    }
+  ],
+  "added": [
+    {
+      "app": "Magnifier: Reading Loupe",
+      "platform": "Android",
+      "old": null,
+      "new": "https://riceawn.com/privacy/magnifier/",
+      "messageSelected": true
+    },
+    {
+      "app": "Tear-off Notes",
+      "platform": "iOS",
+      "old": null,
+      "new": "https://riceawn.com/privacy/tear-off-notes/",
+      "messageSelected": true
+    }
+  ],
+  "verifiedRows": [
+    "NamePrivacy policy URL      help_outlineFallback consent collection      help_outline\n",
+    "2048 TwistedID: 6810794693 | iOShttps://riceawn.com/privacy/2048-twisted/\n",
+    "2048 Twisted - AndroidID: — | Androidhttps://riceawn.com/privacy/2048-twisted/\n",
+    "A Tray of TroubleID: com.riceawngames.atrayoftrouble | Androidhttps://riceawn.com/privacy/a-tray-of-trouble/\n",
+    "A Tray of Trouble - iOSID: — | iOShttps://riceawn.com/privacy/a-tray-of-trouble/\n",
+    "Bubble Level - AndroidID: — | Androidhttps://riceawn.com/privacy/bubble-level/\n",
+    "Bubble Level: DIY Angle FinderID: 6816330217 | iOShttps://riceawn.com/privacy/bubble-level/\n",
+    "Dice Roller: 3D Simulator - iOSID: — | iOShttps://riceawn.com/privacy/dice-roller/\n",
+    "Dice Simulator: ArenaID: — | Androidhttps://riceawn.com/privacy/dice-roller/\n",
+    "Jelly Mingle: Merge PuzzleID: — | iOShttps://riceawn.com/privacy/jelly-mingle/\n",
+    "Jelly Mingle: Merge PuzzleID: — | Androidhttps://riceawn.com/privacy/jelly-mingle/\n",
+    "Magnifier: Reading LoupeID: — | Androidhttps://riceawn.com/privacy/magnifier/\n",
+    "Mahjong MixupID: 6814936261 | iOShttps://riceawn.com/privacy/mahjong-mixup/\n",
+    "Mahjong Solitaire: Slide MixupID: com.riceawngames.mahjongmixup | Androidhttps://riceawn.com/privacy/mahjong-mixup/\n",
+    "Photo Maker: Passport & IDID: — | Androidhttps://riceawn.com/privacy/photo-maker/\n",
+    "Photo Maker: Passport & ID - iOSID: — | iOShttps://riceawn.com/privacy/photo-maker/\n",
+    "Ruler: CM, MM & Inches - AndroidID: — | Androidhttps://riceawn.com/privacy/ruler/\n",
+    "Ruler: Measure CM, MM & InchesID: 6815516308 | iOShttps://riceawn.com/privacy/ruler/\n",
+    "Skillball RallyID: com.riceawngames.skillballrally | Androidhttps://riceawn.com/privacy/skillball-rally/\n",
+    "Skillball Rally - Marble RaceID: 6819093734 | iOShttps://riceawn.com/privacy/skillball-rally/\n",
+    "Sudoku: Pieces - Block JigsawID: 6810938707 | iOShttps://riceawn.com/privacy/sudoku-pieces/\n",
+    "Sudoku: Pieces - Block JigsawID: com.biaaaa.sudokupieces | Androidhttps://riceawn.com/privacy/sudoku-pieces/\n",
+    "Tear-off Notes - AndroidID: — | Androidhttps://riceawn.com/privacy/tear-off-notes/\n",
+    "Tear-off Notes - iOSID: — | iOShttps://riceawn.com/privacy/tear-off-notes/\n"
+  ],
+  "otherMessages": {
+    "US": "Photo Maker iOS draft unchanged; picker has no privacy URL field",
+    "IDFA": "Photo Maker iOS draft unchanged; no policy URL in message content"
+  },
+  "websiteCommit": "4cdfc8239876e66a506281e4e939a7a586526881",
+  "websiteDeployment": "https://github.com/riceawn/riceawn.github.io/actions/runs/41978604521",
+  "applicationRuntimeVerified": false
+}
