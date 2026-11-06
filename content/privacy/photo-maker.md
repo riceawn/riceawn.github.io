@@ -1,45 +1,48 @@
 # Photo Maker: Passport & ID — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 5, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
 
-**Photo Maker: Passport & ID**  
-
-
-This Privacy Policy applies to the Android and iOS versions of Photo Maker: Passport & ID, provided by Rice Awn LLC.
+This policy covers the Android and iOS versions of Photo Maker: Passport & ID.
 
 ## Photos and device access
 
-You choose which photos to import or take with your camera. The app crops photos and creates print layouts on your device. Photos saved in the app remain on your device; Rice Awn LLC does not upload them to its servers. If you export or share a photo, the copy is handled by your device and the destination you choose. You can change camera and photo access in your device settings.
+You choose the photos you import or take. The app crops photos, edits backgrounds, and makes print layouts on your device. Photos saved in the app stay on your device; we do not upload them to our servers. Exported or shared copies are handled by your device and the destination you choose. You can manage camera and photo permissions in your device settings.
 
-## Advertising and privacy choices
+On Android, optional background editing uses Google's bundled ML Kit Selfie Segmentation model. The photo and segmentation mask are processed on your device and are not sent to Google by ML Kit. ML Kit may send usage and performance metrics to Google and contact Google for fixes or compatibility updates.
 
-The free version uses Google AdMob for banner and optional rewarded ads. AdMob and its advertising partners may process device identifiers, IP address, approximate location inferred from IP address, app and device information, and ad interactions to show and measure ads. Google User Messaging Platform (UMP) presents consent choices where required before ads are requested. You can reopen Privacy choices in the app when UMP requires that option. On iOS, we request permission through Apple’s App Tracking Transparency system before accessing the advertising identifier. If you decline, ads can still be requested without that identifier. These advertising choices do not control Firebase Analytics.
+## Ads and privacy choices
+
+The free app uses Google AdMob for a banner and optional rewarded videos. AdMob and its partners may process IP address, approximate location inferred from IP address, device and advertising identifiers, app and device information, ad interactions, and diagnostics to deliver, protect, and measure ads.
+
+Google's User Messaging Platform (UMP) presents privacy choices where required. You can reopen Privacy choices in the app when that option is available. On iOS, the app requests Apple's App Tracking Transparency permission before accessing the advertising identifier. Declining that permission does not prevent ads without that identifier. Where UMP Consent Mode applies, your choice can also update Firebase Analytics consent.
 
 ## Analytics
 
-We use Firebase Analytics on Android and iOS to understand app usage and improve the app. It may process app-instance identifiers, device information, and usage events. Our custom events describe screens, selected photo formats, save and export outcomes, ad events, and purchase outcomes. We do not include photos, file paths, names, or purchase tokens in those custom events.
+We use Firebase Analytics to understand app use and improve reliability. It may process an app-instance identifier, device information, approximate location inferred from IP address, and app usage events. Our events cover screens, selected photo formats, save and export results, ad events, and purchase results. They do not include photos, file paths, names, or purchase tokens.
 
 ## Purchases
 
-Google Play or Apple's App Store processes payments, depending on your device. The app receives purchase status and product information to unlock features and restore purchases. Rice Awn LLC does not receive your payment card details. The app also stores unlock status on your device.
+When in-app purchases are available, Google Play or Apple's App Store processes payment. The app receives product and purchase status to unlock or restore features. We do not receive payment card details. Android may keep unlock status on your device; iOS checks entitlements with StoreKit.
 
-## Retention and your choices
+## Retention and deletion
 
-You can delete photos saved inside the app. Saved photos remain on your device until you delete them or uninstall the app. A local record of your purchase unlock may remain until you uninstall the app; purchases can be restored through the store. Device backups may retain app data. Copies exported to your gallery or shared elsewhere are managed separately. Ad, analytics, and store providers retain information under their own policies. To ask about personal data under our control or request its deletion, contact us at the address below.
+The app does not require an account. To delete photos saved in the app, open Saved photos and use Delete in the photo menu. Uninstalling the app removes its local data, subject to device backups. Delete exported copies separately from your gallery or their destination.
 
-## Children and changes
+To ask about data we control or request its deletion, email **contact@riceawn.com** with the app name and your request. Do not send identity documents or payment details. We will review the request and explain any data we must retain. Google, Apple, and other service providers handle data they control under their own policies; their retention periods may differ from ours.
 
-This app is not directed to children under 13. We may update this policy when the app or its services change and will update the effective date above.
+## Age and policy changes
 
-## Service providers' privacy information
+This app is intended for adults and is not directed to children. We will update this page and its date if our data practices change.
 
-- Google (AdMob, UMP, and Firebase): https://policies.google.com/privacy
+## Service providers
+
+- Google (AdMob, UMP, Firebase, and Android ML Kit): https://policies.google.com/privacy
 - How Google uses information from partner apps: https://policies.google.com/technologies/partner-sites
 - Firebase privacy information: https://firebase.google.com/support/privacy
-- Apple (App Store payments): https://www.apple.com/legal/privacy/
+- Apple: https://www.apple.com/legal/privacy/
 
 ## Contact
 
