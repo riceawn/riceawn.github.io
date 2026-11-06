@@ -1,6 +1,6 @@
 # Dice Roller: 3D Simulator — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 5, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
@@ -19,17 +19,19 @@ The app uses Google AdMob to display banner, rewarded and interstitial ads.
 
 Google and its advertising partners may process device and app information, identifiers where permitted, IP address, diagnostics and ad interactions to deliver, measure and protect advertising services.
 
-Google’s User Messaging Platform (UMP) manages advertising privacy messages where required. Available advertising choices can be revisited through Settings → Privacy & data → Ad privacy choices.
+Google’s User Messaging Platform (UMP) manages advertising privacy messages where required. Available advertising choices can be revisited through Settings → Privacy & data → Advertising privacy (when required).
 
 Refusing personalized advertising does not necessarily mean that no ads can be displayed. Purchased ad-removal benefits apply to the placements described on the purchase page.
 
-## Optional usage analytics
+## Usage analytics
 
-App versions with Firebase Analytics provide a Usage analytics choice. This choice defaults to off until you make a selection.
+In versions using the updated measurement controls, basic usage analytics is enabled by default. Firebase Analytics is configured with analytics storage, advertising storage, advertising user data and advertising personalization consent denied. In this restricted mode, Google describes measurement events as being sent without user or device identifiers. We do not set user IDs or add personal information to these events.
 
-If enabled, Firebase Analytics processes app-instance identifiers, device and app information, and usage events such as modes entered, dice-roll activity and advertising events. We use this information to understand feature use and improve the app. This information should not be considered completely anonymous.
+Events describe feature use, such as modes entered, dice counts and advertising interactions. Network requests still involve technical information such as an IP address and device/app information; this should not be interpreted as a promise that no information is transmitted. Google's processing and retention practices apply.
 
-You can disable Usage analytics in Settings → Privacy & data. Advertising eligibility is not treated as permission to enable analytics. This choice does not grant Firebase Analytics advertising-storage or advertising-personalization consent.
+You can turn Usage analytics off in Settings → Privacy & data. An existing choice to turn analytics off remains off after an update. Advertising eligibility does not grant analytics tracking permission. We do not enable analytics or advertising identifier storage through this switch.
+
+Older versions may instead leave analytics disabled until selected and may use app-instance identifiers when it is enabled. The privacy controls and SDK configuration of the version you use apply.
 
 Disabling analytics stops future app analytics collection controlled by this setting. It does not automatically delete information already processed by the provider.
 
