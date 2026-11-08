@@ -1,52 +1,65 @@
 # 2048 Twisted — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 8, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
 
-Thank you for playing **2048 Twisted**. Your privacy is critically important to us. This Privacy Policy explains how information is handled across different versions of the app.
+This policy explains how 2048 Twisted and its integrated services handle information. Practices depend on the app version, platform, privacy choices, and services available to you.
 
----
+## 1. Earlier Offline Versions
 
-### 1. Version 1.0.3 and Earlier (Paid / Offline Releases)
-- **2048 Twisted** versions up to 1.0.3 operate as standalone, offline puzzle games.
-- We do **NOT** collect, store, share, or transmit any personally identifiable information (PII).
-- We do **NOT** use tracking cookies, analytics SDKs, advertising frameworks, or location services in these versions.
+Versions 1.0.3 and earlier were standalone, offline puzzle games without advertising or analytics SDKs. Game progress and settings were stored on the device.
 
----
+## 2. Advertising
 
-### 2. Version 1.0.4 and Later (Ad-Supported Releases)
-Starting with version 1.0.4, **2048 Twisted** may offer ad-supported access. 
+Ad-supported releases, starting with version 1.0.4, integrate the Google Mobile Ads SDK (AdMob). AdMob may process:
 
-To provide and support advertising, the app integrates the **Google Mobile Ads SDK (AdMob)**. Google AdMob may collect and process certain non-personally identifiable diagnostic and interaction data, including:
-- **Device Identifiers:** Used for ad frequency capping, fraud detection, and device identification.
-- **Coarse Location Data:** Inferred from IP addresses to deliver geographically relevant advertisements.
-- **Usage & Interaction Data:** Product interactions (such as ad impressions, clicks, and views).
-- **Diagnostics:** Crash data and performance metrics to ensure stability.
+- Device identifiers, including app- or developer-scoped identifiers and, on iOS when authorized through App Tracking Transparency (ATT), the advertising identifier (IDFA).
+- IP addresses and approximate location derived from network information. The game does not request GPS or precise-location permission.
+- Advertising data, such as advertisements shown, and interactions such as impressions, taps, and video views.
+- Crash logs, performance information, and other diagnostics used to operate, analyze, and improve advertising services.
 
-This data is handled in accordance with Google's Privacy Policy:
-https://policies.google.com/privacy
+Some advertising and interaction data may be associated with a device. When applicable permissions and consent allow it, identifiers may be used for advertising measurement or personalized advertising, including linking information with data from other companies' apps or websites. Refusing ATT prevents access to IDFA; eligible ads may still be served without it.
 
-*Note: For users who previously purchased the paid version or who purchase the "Remove Ads" option, third-party advertising is disabled.*
+The separate Remove Ads purchase disables advertisements when its entitlement is recognized. Ownership of an earlier paid version alone does not grant ad-free access. Removing ads does not remove Firebase Analytics or automatically opt you out of otherwise permitted analytics.
 
----
+## 3. Firebase Analytics
 
-### 3. In-App Purchases
-The app supports an optional "Remove Ads" non-consumable in-app purchase. All transaction details and payment processing are handled directly and securely by Apple StoreKit. We do not receive, store, or process any credit card numbers or billing details.
+The iOS 1.0.5 release includes Google Analytics for Firebase to understand app use and improve the game. Android releases that include Firebase Analytics use the corresponding platform integration.
 
----
+When measurement is enabled, Firebase may process an app-instance identifier, device and app information (such as operating system, app version and language), approximate location derived from network information, and automatic lifecycle and engagement events such as app opens, sessions, and time spent in the app. These records may be associated with an app instance or device even though the game has no account or login.
 
-### 4. Local Storage
-The game stores high scores, game board state, undo history, and settings locally on your device only. This gameplay data is never sent to our servers and can be wiped at any time by clearing application data or uninstalling the app.
+The app does not set a Firebase user ID, send the saved game board or undo history to Firebase, or include Firebase Crashlytics. The current integration disables Firebase Analytics collection of advertising identifiers; AdMob's separate advertising practices are described above.
 
----
+On iOS, basic analytics is enabled automatically when the configured consent process determines that prior consent is not required, while preserving an explicit previous refusal. Where consent is required, analytics follows the Analytics consent choice obtained through Google's User Messaging Platform (UMP). Unknown or unconfigured required Analytics consent does not create a new opt-in. A refusal of advertising personalization or ATT permission is not itself a refusal of first-party analytics. Withdrawing Analytics consent disables further analytics collection; it does not automatically erase previously collected records.
 
-### 5. Children's Privacy
-The app does not knowingly collect personally identifiable information from children under the age of 13.
+Android's integration uses Google's consent mode, which can permit restricted measurement requests when analytics storage is denied. A denied storage setting should not be understood as a promise that the SDK makes no network requests.
 
----
+## 4. Your Privacy Choices
 
-### 6. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-- Email: contact@riceawn.com
+The app uses UMP to request applicable regional consent and provides a Privacy Choices entry in Settings when UMP requires it. You can use that entry to review or change the choices offered for your region. Analytics consent and advertising consent are separate purposes. On iOS, ATT is a separate system permission that can be managed in the device's Settings.
+
+Google's processing is described in its [Privacy Policy](https://policies.google.com/privacy) and [Firebase privacy information](https://firebase.google.com/support/privacy).
+
+## 5. Purchases
+
+The optional Remove Ads purchase is processed by Apple StoreKit on iOS and Google Play Billing on Android. We do not receive payment card numbers or bank details. The app uses store-provided purchase and transaction information to verify access and restore purchases. On Android, purchase tokens are also used to acknowledge purchases.
+
+## 6. Local Game Data
+
+Scores, board state, undo history, settings, language preference, and tile-guide discoveries are stored locally on the device. The game does not upload these saved records as cloud saves. Automatic SDK usage events described above are separate from these saved game records. Local data can be removed by clearing app data or uninstalling the app, subject to the device's backup and restore behavior.
+
+## 7. Retention and Requests
+
+Local game records remain until removed or replaced. Google processes and retains SDK information according to the relevant service settings and policies. Changing consent affects subsequent processing and is not a guarantee that earlier records are deleted. You may contact contact@riceawn.com with questions or applicable access, deletion, or objection requests. We will explain what information we can access and how to direct requests concerning the relevant provider.
+
+## 8. Children's Privacy
+
+We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through the app, contact us so we can investigate and address the request.
+
+## 9. Contact
+
+Rice Awn LLC
+
+Email: [contact@riceawn.com](mailto:contact@riceawn.com)
