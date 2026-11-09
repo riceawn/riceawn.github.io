@@ -1,11 +1,11 @@
-# Photo Maker: Passport & ID — Privacy Policy
+# Passport and ID Photo Maker — Privacy Policy
 
 Last updated: November 5, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
 
-This policy covers the Android and iOS versions of Photo Maker: Passport & ID.
+This policy covers the Android and iOS versions of Passport and ID Photo Maker.
 
 ## Photos and device access
 

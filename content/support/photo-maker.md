@@ -1,4 +1,4 @@
-# Photo Maker: Passport & ID Support
+# Passport and ID Photo Maker Support
 
 For help, email **contact@riceawn.com**. Include your device model, iOS/Android version, app version and a description of the issue. Please do not send passport numbers, identity documents, payment details or personal photos.
 
