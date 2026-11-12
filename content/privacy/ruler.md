@@ -1,6 +1,6 @@
 # Ruler: CM, MM & Inches — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 11, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
@@ -30,17 +30,21 @@ The App uses Google AdMob to show banner ads. Depending on consent and device se
 
 Google may link some of this data to a device and may use device identifiers with data from other apps or websites for advertising or measurement, subject to applicable consent and platform controls. See the [Google Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
-#### B. Google User Messaging Platform (iOS)
+#### B. Google User Messaging Platform (Android and iOS)
 
-The iOS App uses Google's User Messaging Platform (UMP) to check whether consent is required and to present privacy choices where applicable. UMP may process approximate location, interactions with its consent message, and performance data for this function. The iOS App requests ads only when UMP reports that it may do so. When UMP requires a privacy-options entry, you can reopen it from the App's Settings.
+App builds that include Google's User Messaging Platform (UMP) use it to check whether consent is required and to present privacy choices where applicable. UMP may process approximate location, interactions with its consent message, and performance data for this function. Those builds request ads only when UMP reports that they may do so. When UMP requires a privacy-options entry, you can reopen it from the App's Settings. Advertising partners may receive the applicable consent signals.
 
-#### C. Firebase Analytics (iOS version 1.0.7 and later)
+#### C. Firebase Analytics (supported Android builds; iOS version 1.0.7 and later)
 
-The iOS App uses Firebase Analytics to understand app usage. Analytics collection is disabled at each launch and enabled only when the UMP consent state permits it. When enabled, Firebase Analytics may collect an app instance identifier, app launches, sessions, screen interactions, approximate location derived from a masked IP address, and in-app purchase events from StoreKit (such as product ID, name, and price). We do not assign an account or sign-in ID to Firebase Analytics. See the [Google Analytics privacy information](https://support.google.com/analytics/answer/10285841).
+App builds that include Firebase Analytics use it to understand app usage. Analytics collection is disabled at each launch and is enabled only when the App's regional consent check permits collection. When enabled, Firebase Analytics may collect an app-instance identifier, an advertising identifier where available and permitted, app launches, sessions, screen interactions, approximate location derived from a masked IP address, and in-app purchase events such as product ID, name, and price. We do not assign an account or sign-in ID to Firebase Analytics. The App has no account-creation or sign-in feature. See the [Google Analytics privacy information](https://support.google.com/analytics/answer/10285841).
 
 #### D. In-App Purchases
 
-The optional "Remove Ads" purchase is processed by Google Play Billing on Android and Apple StoreKit on iOS. The relevant store handles payment details; we do not receive your payment card number, bank details, or billing address. The App checks purchase status to unlock the ad-free feature. On Android, Google Play provides a purchase token for acknowledgement. On iOS, StoreKit verifies the transaction and current entitlement on the device. In iOS version 1.0.7 and later, Firebase Analytics may also receive the purchase event as described above.
+The optional "Remove Ads" purchase is processed by Google Play Billing on Android and Apple StoreKit on iOS. The relevant store handles payment details; we do not receive your payment card number, bank details, or billing address. The App checks purchase status to unlock the ad-free feature. On Android, Google Play provides a purchase token for acknowledgement. On iOS, StoreKit verifies the transaction and current entitlement on the device. In builds that include Firebase Analytics, purchase events may also be received by Firebase Analytics as described above. Unity Ads' handling of purchase history in applicable Android builds is described below.
+
+#### E. Unity Ads mediation (Android builds that include Unity Ads)
+
+The Android App may serve banner ads from Unity Ads through Google AdMob mediation. Unity Ads may collect and share approximate location, user and device identifiers, purchase history, interactions within advertisements, and technical diagnostics. Depending on the data type, these data are used for advertising and marketing, analytics, app functionality, fraud prevention, security, and compliance. Unity's disclosure states that it does not collect precise location, names, email addresses, phone numbers, contacts, or payment-card details through this SDK. Our App does not send calibration measurements or personal contact details to Unity Ads. Advertising collection and use depend on applicable consent and platform controls. See the [Unity Ads privacy information](https://docs.unity.com/en-us/grow/ads/privacy) and [Unity Privacy Policy](https://unity.com/legal/privacy-policy).
 
 ### 3. Platform Permissions
 
@@ -52,11 +56,11 @@ The App is intended for general audiences and is not directed at children under 
 
 ### 5. Privacy Choices
 
-Where required, the iOS App presents a UMP consent message before requesting ads. When the privacy-options entry is available in the App's Settings, you can use it to revisit those choices. You can also manage advertising settings through your device's controls, including **Android: Settings → Google → Ads** and **iOS: Settings → Privacy & Security → Tracking**. The available choices may differ by region and platform.
+Where required, Android and iOS builds that include UMP present its consent message before requesting ads. When the privacy-options entry is available in the App's Settings, you can use it to revisit those choices. You can also manage advertising settings through your device's controls, including **Android: Settings → Google → Ads** and **iOS: Settings → Privacy & Security → Tracking**. The available choices may differ by region and platform.
 
 ### 6. Changes to This Privacy Policy
 
-
+We may update this policy as the App changes. Updates will be posted here with a revised "Last updated" date.
 
 ### 7. Contact Us
 
