@@ -1,6 +1,6 @@
 # Ruler: CM, MM & Inches — Privacy Policy
 
-Last updated: November 11, 2026
+Last updated: November 12, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
@@ -40,11 +40,11 @@ App builds that include Firebase Analytics use it to understand app usage. Analy
 
 #### D. In-App Purchases
 
-The optional "Remove Ads" purchase is processed by Google Play Billing on Android and Apple StoreKit on iOS. The relevant store handles payment details; we do not receive your payment card number, bank details, or billing address. The App checks purchase status to unlock the ad-free feature. On Android, Google Play provides a purchase token for acknowledgement. On iOS, StoreKit verifies the transaction and current entitlement on the device. In builds that include Firebase Analytics, purchase events may also be received by Firebase Analytics as described above. Unity Ads' handling of purchase history in applicable Android builds is described below.
+The optional "Remove Ads" purchase is processed by Google Play Billing on Android and Apple StoreKit on iOS. The relevant store handles payment details; we do not receive your payment card number, bank details, or billing address. The App checks purchase status to unlock the ad-free feature. On Android, Google Play provides a purchase token for acknowledgement. On iOS, StoreKit verifies the transaction and current entitlement on the device. In builds that include Firebase Analytics, purchase events may also be received by Firebase Analytics as described above. Unity Ads' handling of purchase history in builds that include Unity Ads is described below.
 
-#### E. Unity Ads mediation (Android builds that include Unity Ads)
+#### E. Unity Ads mediation (Android and iOS builds that include Unity Ads)
 
-The Android App may serve banner ads from Unity Ads through Google AdMob mediation. Unity Ads may collect and share approximate location, user and device identifiers, purchase history, interactions within advertisements, and technical diagnostics. Depending on the data type, these data are used for advertising and marketing, analytics, app functionality, fraud prevention, security, and compliance. Unity's disclosure states that it does not collect precise location, names, email addresses, phone numbers, contacts, or payment-card details through this SDK. Our App does not send calibration measurements or personal contact details to Unity Ads. Advertising collection and use depend on applicable consent and platform controls. See the [Unity Ads privacy information](https://docs.unity.com/en-us/grow/ads/privacy) and [Unity Privacy Policy](https://unity.com/legal/privacy-policy).
+Android and iOS builds may serve banner ads from Unity Ads through Google AdMob mediation. Unity Ads may collect and share approximate location, user and device identifiers, purchase history, ad and app interactions, advertising and usage data, device attributes such as language, model, screen size and connection type, and performance data. Depending on the data type, these data are used for advertising and marketing, analytics, app functionality, fraud prevention, security, and compliance. Unity's disclosure states that it does not collect precise location, names, email addresses, phone numbers, contacts, or payment-card details through this SDK. Our App does not send calibration measurements or personal contact details to Unity Ads. Advertising collection and use depend on applicable consent and platform controls. See the [Unity Ads privacy information](https://docs.unity.com/en-us/grow/ads/privacy) and [Unity Privacy Policy](https://unity.com/legal/privacy-policy).
 
 ### 3. Platform Permissions
 
