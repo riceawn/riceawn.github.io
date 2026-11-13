@@ -46,6 +46,8 @@ The optional "Remove Ads" purchase is processed by Google Play Billing on Androi
 
 Android and iOS builds may serve banner ads from Unity Ads through Google AdMob mediation. Unity Ads may collect and share approximate location, user and device identifiers, purchase history, ad and app interactions, advertising and usage data, device attributes such as language, model, screen size and connection type, and performance data. Depending on the data type, these data are used for advertising and marketing, analytics, app functionality, fraud prevention, security, and compliance. Unity's disclosure states that it does not collect precise location, names, email addresses, phone numbers, contacts, or payment-card details through this SDK. Our App does not send calibration measurements or personal contact details to Unity Ads. Advertising collection and use depend on applicable consent and platform controls. See the [Unity Ads privacy information](https://docs.unity.com/en-us/grow/ads/privacy) and [Unity Privacy Policy](https://unity.com/legal/privacy-policy).
 
+If you submit an ad creative report through a Unity ad, Unity may process the support information you provide to handle that report. Unity describes this support data as not linked to the user and used for app functionality. See its [iOS data disclosure](https://docs.unity.com/en-us/ads-ios/4.21.0/privacy/developer-consent/disclosures/apple-privacy-survey).
+
 ### 3. Platform Permissions
 
 On Android, android.permission.INTERNET allows ads and Google Play Billing to communicate with their services, and android.permission.ACCESS_NETWORK_STATE allows the App to check network availability. The iOS measuring features do not request access to contacts, photos, or precise location.
