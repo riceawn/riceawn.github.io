@@ -1,6 +1,6 @@
 # Skillball Rally — Privacy Policy
 
-Last updated: October 31, 2026
+Last updated: November 23, 2026
 
 Provider: **Rice Awn LLC**  
 Contact: **contact@riceawn.com**
@@ -15,8 +15,8 @@ Rice Awn LLC ("we", "our", or "us") respects your privacy. This Privacy Policy d
 ## 1. Information Collection & Advertising
 
 - **No Personal Account Required**: We do not require registration, login, or personal contact details to play the Game.
-- **Third-Party Advertising (Google AdMob)**: The Game displays mobile advertisements served by Google AdMob. The Google Mobile Ads SDK may automatically collect non-personally identifiable diagnostic information and device identifiers (such as Advertising ID or IDFA) to serve relevant ads, prevent ad fraud, and measure ad performance in compliance with applicable platform privacy requirements.
-  - Learn more about Google's privacy practices: [Google Privacy Policy](https://policies.google.com/privacy).
+- **Third-party advertising.** The Game uses Google AdMob to serve ads. Versions that include Unity Ads may also show ads from Unity through AdMob mediation. These providers may process device and app identifiers, approximate location (such as country inferred from an IP address), device and connection information, ad impressions and interactions, and performance or diagnostic information. They use this information to deliver and measure ads, operate their services, and help prevent fraud. Unity's disclosures also describe how it may handle purchase-related information depending on the features in use.
+- **Advertising choices.** Ad personalization and use of advertising identifiers depend on your choices, device permissions, and applicable rules. Where available, open the Game's privacy options from Settings to review or change your choices. You can also manage advertising preferences in your device settings. See the [Google Privacy Policy](https://policies.google.com/privacy) and [Unity Game Player and App User Privacy Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy) for details about their data practices, retention, and privacy choices.
 - **In-App Purchases**: In-App Purchases (such as "Remove Ads") are processed securely by Apple App Store (StoreKit) or Google Play Billing. We do not collect, process, or store payment card details.
 
 ### Firebase gameplay statistics and crash diagnostics
